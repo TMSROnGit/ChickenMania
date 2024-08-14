@@ -2,6 +2,9 @@
 Snake like game made for a class project using C# and Unity.
 
 
+Controls: WASD || Arrow keys
+
+
 Unity assets actively used in this game:
 
 [5 animated Voxel animals
